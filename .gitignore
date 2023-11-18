@@ -54,3 +54,7 @@ importer
 
 rulesData.json
 5esrd.json
+
+#Secrets
+.env
+
